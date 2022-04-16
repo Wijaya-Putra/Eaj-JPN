@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jae
-- 👀 I’m interested in Computer Stuff
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on . . .
-- 📫 How to reach me = Um follow me?
+- 👀 音あの子になりたい
+- 🌱 C++, Phyton
+- 💞️ I am alone
+- 📫 President University
 
 <!---
 Eaj-JPN/Eaj-JPN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
